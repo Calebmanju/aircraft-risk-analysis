@@ -67,7 +67,7 @@ The project follows these steps to achieve its objectives:
 Based on the analysis, the following recommendations are made to the company for selecting the lowest-risk aircraft:
 
 - Prioritize aircraft types with high percentages of **"No Fatalities"** and **low accident counts**.
-- Aircraft models such as **Cessna 150** and **Cessna 172** have a high rate of minor accidents but generally low severity, making them potentially safer choices.
+- Aircraft models such as ***Boeing*** and ***Grumman*** have a high rate of minor accidents but generally low severity, making them potentially safer choices.
 - Avoid aircraft models with a higher proportion of severe or fatal accidents.
 
 ---
