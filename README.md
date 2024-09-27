@@ -71,4 +71,6 @@ Based on the analysis, the following recommendations are made to the company for
 - Avoid aircraft models with a higher proportion of severe or fatal accidents.
 
 ---
-
+# Tableau Link
+https://public.tableau.com/app/profile/caleb.kipkech/viz/Aircraftcrashanalysis/Dashboard1?publish=yes
+ 
